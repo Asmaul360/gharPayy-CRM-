@@ -96,7 +96,7 @@ The frontend communicates with the backend through REST APIs which handle busine
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/Asmaul360/gharPayy-CRM-.git
 cd repository-name
 ```
 
@@ -200,21 +200,16 @@ This demonstrates the ability to design a **scalable real-world CRM product**.
 
 **Asmaul Mallick**
 
-Second Year Engineering Student
-Full Stack Developer (MERN)
+Third Year Engineering Student
+Node.js Backend Developer
 
-GitHub: [https://github.com/Asmaul360/gharPayy-CRM-]
+GitHub: [https://github.com/Asmaul360]
 
 ---
 
 ⭐ If you like this project, feel free to star the repository!
 
 ```
-
----
-
-
-
 
 
 ```
